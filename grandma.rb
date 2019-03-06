@@ -21,3 +21,7 @@ def speak_to_grandma(phrase)
     puts "I LOVE YOU TOO PUMPKIN!"
   end
 end
+
+speak_to_grandma("HAVE YOU EATEN")
+speak_to_grandma("how are you gma")
+speak_to_grandma("I LOVE YOU GRANDMA!")
